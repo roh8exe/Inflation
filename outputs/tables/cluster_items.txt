@@ -1,0 +1,363 @@
+K-vol Cluster Membership (K=15)
+India CPI, Base 2012=100, Jan 2015 - Dec 2025
+======================================================================
+
+CLUSTER 1  (HV centroid = 1.73)
+--------------------------------------------------
+  [0.99] sauce; jam; jelly (gm)                        HV=1.2  w=0.023%
+  [0.99] tea: cups (no.)                               HV=1.7  w=0.855%
+  [0.99] cooked meals purchased  (no.)                 HV=1.5  w=2.425%
+  [0.74] prepared sweets; cake; pastry                 HV=2.0  w=0.554%
+  [0.76] papad; bhujia; namkeen; mixture; chanachur    HV=2.0  w=0.457%
+  [0.99] mineral water (litre)                         HV=1.1  w=0.016%
+  [0.99] cold beverages: bottled/canned (litre)        HV=1.8  w=0.088%
+  [0.99] fruit juice and shake (litre)                 HV=1.0  w=0.051%
+  [0.99] other beverages: cocoa; chocolate; etc.       HV=1.5  w=0.086%
+  [0.98] kurta-pajama suits: females (no.)             HV=1.9  w=0.223%
+  [0.99] washerman; laundry; ironing                   HV=1.7  w=0.125%
+  [0.99] house rent; garage rent                       HV=1.5  w=9.510%
+  [0.99] residential building and land [cost of repairs only] HV=1.6  w=0.283%
+  [0.96] bed sheet; bed cover (no.)                    HV=1.9  w=0.183%
+  [0.99] rug; blanket (no.)                            HV=1.6  w=0.073%
+  [0.51] air conditioner; air cooler                   HV=2.1  w=0.054%
+  [0.99] refrigerator                                  HV=1.7  w=0.092%
+  [0.60] electric fan                                  HV=2.1  w=0.015%
+  [0.99] electric bulb; tubelight                      HV=1.6  w=0.182%
+  [0.99] other washing requisites                      HV=1.5  w=0.116%
+  [0.99] incense [agarbatti]; room freshener           HV=1.8  w=0.204%
+  [0.99] mosquito repellent; insecticide; acid etc.    HV=1.2  w=0.123%
+  [0.81] domestic servant/cook                         HV=2.0  w=0.639%
+  [0.99] hospital and nursing home charges             HV=1.8  w=0.441%
+  [0.99] medicine [non-institutional]                  HV=1.7  w=4.011%
+  [0.99] other medical expenses [non-institutional]    HV=1.8  w=0.116%
+  [0.99] X-ray; ECG; pathological test; etc. [non-institutional] HV=1.4  w=0.476%
+  [0.57] lubricants and other fuels for vehicle        HV=2.1  w=0.050%
+  [0.99] telephone charges: landline                   HV=1.7  w=0.171%
+  [0.99] sports goods; toys; etc.                      HV=1.3  w=0.112%
+  [0.99] newspapers; periodicals                       HV=1.4  w=0.181%
+  [0.58] photography                                   HV=2.1  w=0.020%
+  [0.99] monthly charges for cable TV connection       HV=1.7  w=0.820%
+  [1.00] library charges                               HV=0.0  w=0.000%
+  [0.99] books; journals: first hand                   HV=1.7  w=0.559%
+  [0.55] stationery; photocopying charges              HV=2.1  w=0.388%
+  [0.99] tuition and other fees [school; college; etc.] HV=1.7  w=2.898%
+  [0.99] toothpaste; toothbrush; comb; etc.            HV=1.9  w=0.356%
+  [0.99] powder; snow; cream; lotion and perfume       HV=1.4  w=0.393%
+  [0.99] hair oil; shampoo; hair cream                 HV=1.6  w=0.450%
+  [0.99] shaving blades; shaving stick; razor          HV=1.2  w=0.098%
+  [0.99] shaving cream; aftershave lotion              HV=1.3  w=0.044%
+  [0.99] sanitary napkins                              HV=1.5  w=0.089%
+  [0.65] barber; beautician; etc.                      HV=2.0  w=0.552%
+  (44 items)
+
+CLUSTER 2  (HV centroid = 2.70)
+--------------------------------------------------
+  [0.58] other rice products                           HV=3.1  w=0.018%
+  [0.73] suji; rawa                                    HV=3.0  w=0.095%
+  [0.81] sewai; noodles                                HV=2.4  w=0.034%
+  [0.82] bread [bakery]                                HV=2.4  w=0.108%
+  [0.96] biscuits; chocolates; etc.                    HV=2.7  w=0.883%
+  [0.72] grinding charges                              HV=3.0  w=0.324%
+  [0.81] beef/buffalo meat                             HV=2.9  w=0.268%
+  [0.81] fish; prawn                                   HV=2.9  w=1.267%
+  [0.57] milk: liquid (litre)                          HV=2.2  w=6.419%
+  [0.71] milk: condensed/powder                        HV=2.3  w=0.041%
+  [0.62] curd                                          HV=2.2  w=0.094%
+  [0.96] other milk products                           HV=2.7  w=0.027%
+  [0.69] butter                                        HV=3.0  w=0.010%
+  [0.96] other dry fruits                              HV=2.8  w=0.046%
+  [0.86] candy; misri                                  HV=2.5  w=0.001%
+  [0.61] ice-cream                                     HV=3.1  w=0.012%
+  [0.95] curry powder (gm)                             HV=2.6  w=0.180%
+  [0.80] coffee: cups (no.)                            HV=2.4  w=0.020%
+  [0.56] cooked snacks purchased [samosa; puri; paratha; burger; chowmein; idli; dosa; vada; chops; pakoras; pao bhaji; etc.] HV=2.2  w=1.161%
+  [0.78] other packaged processed food                 HV=2.3  w=0.078%
+  [0.85] pan: finished (no.)                           HV=2.5  w=0.155%
+  [0.73] bidi (no.)                                    HV=3.0  w=0.426%
+  [0.82] leaf tobacco (gm)                             HV=2.4  w=0.100%
+  [0.52] dhoti (no.)                                   HV=3.2  w=0.075%
+  [0.81] saree (no.)                                   HV=2.4  w=0.897%
+  [0.95] shawl; chaddar (no.)                          HV=2.8  w=0.082%
+  [0.81] kurta-pajama suits: males (no.)               HV=2.9  w=0.055%
+  [0.94] shirts; T-shirts (no.)                        HV=2.6  w=0.566%
+  [0.50] shorts; trousers; bermudas (no.)              HV=2.1  w=0.554%
+  [0.80] frocks; skirts; etc. (no.)                    HV=2.4  w=0.151%
+  [0.80] school/college uniform: boys                  HV=2.4  w=0.170%
+  [0.54] school/college uniform: girls                 HV=2.2  w=0.135%
+  [0.95] coat; jacket; sweater; windcheater (no.)      HV=2.6  w=0.196%
+  [0.97] cloth for shirt; pyjama; kurta; salwar; etc. (metre) HV=2.7  w=0.677%
+  [0.70] cloth for coat; trousers; suit; etc. (metre)  HV=2.3  w=0.423%
+  [0.97] clothing [first-hand]: other                  HV=2.7  w=0.052%
+  [0.70] gamchha; towel; handkerchief (no.)            HV=3.0  w=0.178%
+  [0.51] tailor                                        HV=2.1  w=0.389%
+  [0.86] leather boots; shoes                          HV=2.5  w=0.209%
+  [0.70] leather sandals; chappals; etc.               HV=3.0  w=0.182%
+  [0.83] other footwear                                HV=2.5  w=0.171%
+  [0.80] water charges                                 HV=2.4  w=0.161%
+  [0.95] watch man charges [other cons taxes]          HV=2.6  w=0.115%
+  [0.53] electricity (std. unit)                       HV=3.1  w=2.260%
+  [0.79] firewood and chips                            HV=2.4  w=2.068%
+  [0.80] almirah; dressing table                       HV=2.4  w=0.033%
+  [0.86] chair; stool; bench; table                    HV=2.5  w=0.015%
+  [0.59] other furniture and fixtures [couch; sofa; etc.] HV=3.1  w=0.025%
+  [0.72] pillow; quilt; mattress (no.)                 HV=2.3  w=0.047%
+  [0.70] inverter                                      HV=3.0  w=0.043%
+  [0.72] washing machine                               HV=3.0  w=0.024%
+  [0.71] water purifier                                HV=3.0  w=0.009%
+  [0.90] other crockery and utensils                   HV=2.6  w=0.012%
+  [0.55] electric batteries                            HV=3.1  w=0.011%
+  [0.94] torch                                         HV=2.8  w=0.046%
+  [0.92] bucket; water bottle/feeding bottle and other plastic goods HV=2.6  w=0.066%
+  [0.70] washing soap/soda/powder                      HV=3.0  w=0.867%
+  [0.61] candle (no.)                                  HV=2.2  w=0.033%
+  [0.70] other petty articles                          HV=2.3  w=0.158%
+  [0.89] other consumer services excluding conveyance  HV=2.5  w=0.157%
+  [0.96] spectacles                                    HV=2.7  w=0.056%
+  [0.54] doctors/surgeons fee-first consultation [non-institutional] HV=2.2  w=0.790%
+  [0.84]  motor car; jeep                              HV=2.5  w=0.481%
+  [0.53] bicycle [without  accessories]                HV=3.2  w=0.130%
+  [0.50] railway fare                                  HV=2.1  w=0.185%
+  [0.70] taxi; auto-rickshaw fare                      HV=2.3  w=0.568%
+  [0.84] rickshaw [hand drawn and cycle] fare          HV=2.5  w=0.046%
+  [0.96] school bus; van; etc.                         HV=2.8  w=0.246%
+  [0.95] mobile handset                                HV=2.8  w=0.135%
+  [0.96] internet expenses                             HV=2.7  w=0.080%
+  [0.81] PC/Laptop/other peripherals incl. software    HV=2.9  w=0.111%
+  [0.54] other entertainment                           HV=3.1  w=0.113%
+  [0.86] club fees                                     HV=2.5  w=0.001%
+  [0.82] private tutor/coaching centre                 HV=2.9  w=0.577%
+  [0.56] other educational expenses [incl. fees for enrollment in web-based training] HV=2.2  w=0.040%
+  [0.94] umbrella; raincoat                            HV=2.6  w=0.062%
+  (76 items)
+
+CLUSTER 3  (HV centroid = 3.78)
+--------------------------------------------------
+  [0.65] rice_other sources                            HV=4.3  w=4.378%
+  [0.76] chira                                         HV=3.6  w=0.095%
+  [0.71] muri                                          HV=3.5  w=0.111%
+  [0.87] pork                                          HV=3.9  w=0.052%
+  [0.64] baby food                                     HV=3.4  w=0.025%
+  [0.81] pickles (gm)                                  HV=3.8  w=0.095%
+  [0.55] other pulse products                          HV=4.4  w=0.031%
+  [0.69] tea: leaf (gm)                                HV=4.1  w=0.958%
+  [0.80] country liquor (litre)                        HV=3.7  w=0.354%
+  [0.77] ingredients for pan (gm)                      HV=3.6  w=0.131%
+  [0.65] hookah tobacco (gm)                           HV=4.3  w=0.006%
+  [0.88] other tobacco products                        HV=3.9  w=0.264%
+  [0.75] lungi (no.)                                   HV=3.6  w=0.115%
+  [0.60] baniyan; socks; other hosiery and undergarments; etc. (no.) HV=3.3  w=0.491%
+  [0.63] other leather footwear                        HV=3.3  w=0.075%
+  [0.80] rubber/PVC footwear                           HV=3.7  w=0.312%
+  [0.70] other fuel                                    HV=3.5  w=0.184%
+  [0.80] coal                                          HV=3.7  w=0.039%
+  [0.85] dung cake                                     HV=4.0  w=0.442%
+  [0.80] bedstead                                      HV=3.7  w=0.057%
+  [0.67] mosquito net (no.)                            HV=3.4  w=0.013%
+  [0.68] sewing machine                                HV=3.4  w=0.001%
+  [0.69] other cooking/household appliances            HV=3.5  w=0.005%
+  [0.81] stainless steel utensils                      HV=3.8  w=0.180%
+  [0.88] other metal utensils                          HV=3.9  w=0.013%
+  [0.71] earthenware                                   HV=3.5  w=0.029%
+  [0.69] glassware                                     HV=3.5  w=0.001%
+  [0.61] plugs; switches and other electrical fittings HV=3.3  w=0.004%
+  [0.58] lock                                          HV=3.2  w=0.001%
+  [0.60] coir; rope; etc.                              HV=3.3  w=0.004%
+  [0.68] flower [fresh]: all purposes                  HV=4.1  w=0.091%
+  [0.69] matches (box)                                 HV=3.5  w=0.085%
+  [0.69] sweeper                                       HV=3.5  w=0.041%
+  [0.83]  motor cycle; scooter                         HV=3.8  w=0.793%
+  [0.69]  tyres and tubes                              HV=3.5  w=0.072%
+  [0.65] bus/tram fare                                 HV=3.4  w=1.367%
+  [0.55] telephone charges: mobile                     HV=4.4  w=1.839%
+  [0.64] radio; tape recorder; 2-in-1                  HV=4.3  w=0.003%
+  [0.57] television                                    HV=4.4  w=0.162%
+  [0.74] CD; DVD; audio/video cassette; etc.           HV=4.0  w=0.005%
+  [0.82] cinema: new release [normal day]              HV=3.8  w=0.131%
+  [0.68] toilet soap                                   HV=4.1  w=0.638%
+  [0.67] suitcase; trunk; box; handbag and other travel goods HV=4.2  w=0.002%
+  [0.59] lighter [bidi/cigarette/gas stove]            HV=3.3  w=0.000%
+  (44 items)
+
+CLUSTER 4  (HV centroid = 5.33)
+--------------------------------------------------
+  [0.63] wheat/atta_other sources                      HV=5.7  w=2.561%
+  [0.62] maida                                         HV=4.8  w=0.031%
+  [0.63] maize and products                            HV=5.6  w=0.057%
+  [0.69] goat meat/mutton                              HV=5.1  w=0.794%
+  [0.75] eggs (no.)                                    HV=5.2  w=0.431%
+  [0.67] ghee                                          HV=5.0  w=0.474%
+  [0.55] green coconut (no.)                           HV=4.6  w=0.046%
+  [0.60] groundnut                                     HV=5.8  w=0.288%
+  [0.78] dates                                         HV=5.3  w=0.042%
+  [0.63] walnut                                        HV=5.6  w=0.003%
+  [0.56] other nuts                                    HV=4.7  w=0.014%
+  [0.52] raisin; kishmish; monacca; etc.               HV=6.0  w=0.056%
+  [0.62] other pulses                                  HV=5.7  w=0.083%
+  [0.62] gur                                           HV=4.9  w=0.103%
+  [0.62] honey                                         HV=4.9  w=0.003%
+  [0.61] salt                                          HV=4.8  w=0.159%
+  [0.74] turmeric (gm)                                 HV=5.2  w=0.497%
+  [0.63] oilseeds (gm)                                 HV=5.6  w=0.091%
+  [0.60] foreign/refined liquor or wine (litre)        HV=5.8  w=0.403%
+  [0.53] other intoxicants                             HV=4.5  w=0.076%
+  [0.55] pan: leaf (no.)                               HV=4.6  w=0.064%
+  [0.55] cigarettes (no.)                              HV=4.6  w=0.229%
+  [0.61] zarda; kimam; surti (gm)                      HV=4.8  w=0.049%
+  [0.77] knitting wool (gm)                            HV=5.2  w=0.000%
+  [0.56] coke                                          HV=4.7  w=0.011%
+  [0.63] charcoal                                      HV=5.6  w=0.002%
+  [0.55] carpet; daree and other floor mattings        HV=4.6  w=0.002%
+  [0.63] cloth for upholstery; curtains; tablecloth; etc. (metre) HV=5.6  w=0.002%
+  [0.66] pressure cooker/pressure pan                  HV=5.5  w=0.000%
+  [0.52] family planning devices                       HV=6.0  w=0.000%
+  [0.60] other conveyance expenses                     HV=5.8  w=0.010%
+  [0.63] steamer; boat fare                            HV=5.7  w=0.000%
+  [0.63] camera and photographic equipment             HV=5.7  w=0.003%
+  [0.67] clock; watch                                  HV=5.0  w=0.000%
+  (34 items)
+
+CLUSTER 5  (HV centroid = 6.87)
+--------------------------------------------------
+  [0.54] jowar and its products                        HV=6.4  w=0.226%
+  [0.50] bajra and its products                        HV=7.9  w=0.112%
+  [0.52] small millets and their products              HV=6.2  w=0.000%
+  [0.56] ragi and its products                         HV=6.5  w=0.046%
+  [0.49] chicken                                       HV=8.0  w=1.227%
+  [0.51] others: birds; crab; oyster; tortoise; etc.   HV=7.7  w=0.006%
+  [0.50] groundnut oil                                 HV=7.9  w=0.333%
+  [0.70] banana (no.)                                  HV=7.0  w=0.560%
+  [0.52] guava                                         HV=6.2  w=0.081%
+  [0.51] grapes                                        HV=7.7  w=0.153%
+  [0.52] other fresh fruits                            HV=6.3  w=0.119%
+  [0.51] cashewnut                                     HV=7.6  w=0.077%
+  [0.65] palak/other leafy vegetables                  HV=6.7  w=0.438%
+  [0.56] other vegetables                              HV=6.5  w=0.565%
+  [0.49] dhania (gm)                                   HV=8.1  w=0.334%
+  [0.60] black pepper (gm)                             HV=6.6  w=0.140%
+  [0.69] coffee: powder (gm)                           HV=7.1  w=0.059%
+  [0.50] toddy (litre)                                 HV=7.8  w=0.058%
+  [0.55] beer (litre)                                  HV=6.4  w=0.059%
+  [0.69] snuff (gm)                                    HV=7.0  w=0.001%
+  [0.71] cheroot (no.)                                 HV=6.9  w=0.004%
+  [0.50] clothing: second-hand                         HV=7.8  w=0.013%
+  [0.65] headwear; belts; ties (no.)                   HV=7.3  w=0.011%
+  [0.55] bathroom and sanitary equipment               HV=6.4  w=0.002%
+  [0.58] bedding: others                               HV=7.4  w=0.001%
+  [0.71] other durables [specify]                      HV=6.9  w=0.004%
+  [0.60] Monthly Maintainance charges                  HV=6.6  w=0.040%
+  [0.49] horse cart fare                               HV=8.0  w=0.004%
+  [0.50] porter charges                                HV=7.9  w=0.002%
+  [0.49] VCR/VCD/DVD player                            HV=8.1  w=0.006%
+  [0.50] goods for recreation and hobbies              HV=7.9  w=0.002%
+  [0.65] hotel lodging charges                         HV=6.7  w=0.009%
+  [0.54] any other personal goods                      HV=6.3  w=0.000%
+  (33 items)
+
+CLUSTER 6  (HV centroid = 8.67)
+--------------------------------------------------
+  [0.51] pineapple (no.)                               HV=9.9  w=0.004%
+  [0.63] orange; mausami (no.)                         HV=9.3  w=0.125%
+  [0.51] papaya                                        HV=9.9  w=0.047%
+  [0.63] radish                                        HV=9.3  w=0.072%
+  [0.65] ladys finger                                  HV=8.7  w=0.283%
+  [0.65] gourd; pumpkin                                HV=8.7  w=0.236%
+  [0.63] beans; barbati                                HV=9.6  w=0.142%
+  [0.64] khesari                                       HV=9.1  w=0.012%
+  [0.63] gram products                                 HV=9.2  w=0.023%
+  [0.65] sugar - other sources                         HV=8.6  w=1.134%
+  [0.63] kerosene – other sources (litre)              HV=9.5  w=0.207%
+  [0.64] electric iron; heater; toaster; oven and other electric heating appliances HV=9.1  w=0.002%
+  [0.63] petrol for vehicle                            HV=9.5  w=2.187%
+  [0.63] other ornaments                               HV=9.4  w=0.012%
+  (14 items)
+
+CLUSTER 7  (HV centroid = 10.80)
+--------------------------------------------------
+  [0.60] rice_PDS                                      HV=12.2  w=0.371%
+  [0.64] wheat/atta_PDS                                HV=11.1  w=0.174%
+  [0.62] cereal substitutes: tapioca; etc.             HV=10.5  w=0.048%
+  [0.64] watermelon                                    HV=11.3  w=0.047%
+  [0.62] singara                                       HV=10.5  w=0.002%
+  [0.64] kharbooza                                     HV=11.1  w=0.012%
+  [0.64] apple                                         HV=11.0  w=0.470%
+  [0.64] moong                                         HV=11.3  w=0.345%
+  [0.64] masur                                         HV=11.5  w=0.302%
+  [0.64] peas [Pulses]                                 HV=11.2  w=0.068%
+  [0.64] sugar - PDS                                   HV=11.0  w=0.088%
+  [0.64] tamarind (gm)                                 HV=11.2  w=0.148%
+  [0.63] diesel (litre) [excl. conveyance]             HV=10.5  w=0.002%
+  [0.64] diesel for vehicle                            HV=10.8  w=0.148%
+  [0.63] VCD/DVD hire [incl. instrument]               HV=11.7  w=0.003%
+  (15 items)
+
+CLUSTER 8  (HV centroid = 13.19)
+--------------------------------------------------
+  [0.54] mustard oil                                   HV=14.6  w=1.327%
+  [0.63] refined oil [sunflower; soyabean; saffola; etc.] HV=14.1  w=1.262%
+  [0.61] vanaspati; margarine                          HV=12.8  w=0.072%
+  [0.64] jackfruit                                     HV=13.7  w=0.004%
+  [0.62] berries                                       HV=14.3  w=0.001%
+  [0.64] leechi                                        HV=13.5  w=0.008%
+  [0.61] brinjal                                       HV=12.8  w=0.368%
+  [0.52] lemon (no.)                                   HV=14.7  w=0.127%
+  [0.54] gram: whole                                   HV=14.5  w=0.095%
+  [0.63] besan                                         HV=14.1  w=0.157%
+  [0.58] dry chillies (gm)                             HV=12.6  w=0.575%
+  [0.64] LPG [excl. conveyance]                        HV=13.7  w=1.286%
+  (12 items)
+
+CLUSTER 9  (HV centroid = 15.72)
+--------------------------------------------------
+  [0.72] other cereals                                 HV=16.1  w=0.001%
+  [0.72] mango                                         HV=16.1  w=0.320%
+  [0.72] pears/nashpati                                HV=15.8  w=0.001%
+  [0.48] green chillies                                HV=15.0  w=0.279%
+  [0.72] gram: split                                   HV=15.9  w=0.199%
+  [0.76] stove; gas burner                             HV=16.7  w=0.000%
+  [0.52] gold                                          HV=15.2  w=1.080%
+  (7 items)
+
+CLUSTER 10  (HV centroid = 18.91)
+--------------------------------------------------
+  [0.51] coconut (no.)                                 HV=17.6  w=0.263%
+  [0.77] coconut: copra                                HV=19.7  w=0.101%
+  [0.72] carrot                                        HV=18.4  w=0.094%
+  [0.54] cauliflower                                   HV=18.0  w=0.246%
+  [0.77] cabbage                                       HV=20.4  w=0.181%
+  [0.77] parwal/patal; kundru                          HV=19.3  w=0.096%
+  [0.52] peas [Vegetables]                             HV=17.8  w=0.103%
+  [0.77] urd                                           HV=20.0  w=0.274%
+  [0.77] silver                                        HV=19.5  w=0.112%
+  (9 items)
+
+CLUSTER 11  (HV centroid = 24.16)
+--------------------------------------------------
+  [0.77] arhar; tur                                    HV=26.0  w=0.796%
+  [0.77] kerosene – PDS (litre)                        HV=27.4  w=0.342%
+  (2 items)
+
+CLUSTER 12  (HV centroid = 30.90)
+--------------------------------------------------
+  [0.89] coconut oil                                   HV=31.8  w=0.079%
+  [0.89] jeera (gm)                                    HV=29.9  w=0.372%
+  (2 items)
+
+CLUSTER 13  (HV centroid = 39.35)
+--------------------------------------------------
+  [0.89] potato                                        HV=37.8  w=0.984%
+  [0.92] ginger (gm)                                   HV=40.4  w=0.192%
+  (2 items)
+
+CLUSTER 14  (HV centroid = 46.56)
+--------------------------------------------------
+  [1.00] tomato                                        HV=46.8  w=0.575%
+  [1.00] chips (gm)                                    HV=47.9  w=0.008%
+  [0.92] air fare [normal]: economy class [adult]      HV=44.8  w=0.077%
+  (3 items)
+
+CLUSTER 15  (HV centroid = 61.13)
+--------------------------------------------------
+  [1.00] onion                                         HV=60.4  w=0.644%
+  [1.00] garlic (gm)                                   HV=61.9  w=0.310%
+  (2 items)
+

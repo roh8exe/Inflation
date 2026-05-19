@@ -1,0 +1,300 @@
+item_code,description
+1.1.01.1.1.01.P,rice_PDS
+1.1.01.1.1.02.X,rice_other sources
+1.1.01.1.1.03.0,chira
+1.1.01.1.1.05.0,muri
+1.1.01.1.1.06.0,other rice products
+1.1.01.1.1.07.P,wheat/atta_PDS
+1.1.01.1.1.08.X,wheat/atta_other sources
+1.1.01.1.1.09.0,maida
+1.1.01.1.1.10.0,suji; rawa
+1.1.01.1.1.11.X,sewai; noodles
+1.1.01.1.1.12.0,bread [bakery]
+1.1.01.1.1.13.X,biscuits; chocolates; etc.
+1.1.01.1.1.15.0,other cereals
+1.1.01.1.1.16.0,cereal substitutes: tapioca; etc.
+1.1.01.2.1.01.X,jowar and its products
+1.1.01.2.1.02.X,bajra and its products
+1.1.01.2.1.03.X,maize and products
+1.1.01.2.1.05.X,small millets and their products
+1.1.01.2.1.06.X,ragi and its products
+1.1.01.3.2.01.0,grinding charges
+1.1.02.1.1.01.0,goat meat/mutton
+1.1.02.1.1.02.X,beef/buffalo meat
+1.1.02.1.1.03.0,pork
+1.1.02.1.1.04.0,chicken
+1.1.02.1.1.05.0,others: birds; crab; oyster; tortoise; etc.
+1.1.02.2.1.01.X,fish; prawn
+1.1.03.1.1.01.0,eggs (no.)
+1.1.04.1.1.01.X,milk: liquid (litre)
+1.1.04.2.1.01.0,baby food
+1.1.04.2.1.02.X,milk: condensed/powder
+1.1.04.2.1.03.0,curd
+1.1.04.2.1.04.0,other milk products
+1.1.05.1.1.01.0,mustard oil
+1.1.05.1.1.02.0,groundnut oil
+1.1.05.1.1.03.0,coconut oil
+1.1.05.1.1.04.0,refined oil [sunflower; soyabean; saffola; etc.]
+1.1.05.2.1.01.0,ghee
+1.1.05.2.1.02.0,butter
+1.1.05.2.1.03.0,vanaspati; margarine
+1.1.06.1.1.01.0,banana (no.)
+1.1.06.1.1.02.0,jackfruit
+1.1.06.1.1.03.0,watermelon
+1.1.06.1.1.04.0,pineapple (no.)
+1.1.06.1.1.05.0,coconut (no.)
+1.1.06.1.1.06.0,green coconut (no.)
+1.1.06.1.1.07.0,guava
+1.1.06.1.1.08.0,singara
+1.1.06.1.1.09.X,orange; mausami (no.)
+1.1.06.1.1.10.0,papaya
+1.1.06.1.1.11.0,mango
+1.1.06.1.1.12.0,kharbooza
+1.1.06.1.1.13.X,pears/nashpati
+1.1.06.1.1.14.0,berries
+1.1.06.1.1.15.0,leechi
+1.1.06.1.1.16.0,apple
+1.1.06.1.1.17.0,grapes
+1.1.06.1.1.18.0,other fresh fruits
+1.1.06.2.1.01.0,coconut: copra
+1.1.06.2.1.02.0,groundnut
+1.1.06.2.1.03.0,dates
+1.1.06.2.1.04.0,cashewnut
+1.1.06.2.1.05.0,walnut
+1.1.06.2.1.06.0,other nuts
+1.1.06.2.1.07.X,raisin; kishmish; monacca; etc.
+1.1.06.2.1.08.0,other dry fruits
+1.1.07.1.1.01.0,potato
+1.1.07.1.1.02.0,onion
+1.1.07.1.1.03.0,radish
+1.1.07.1.1.04.0,carrot
+1.1.07.1.1.05.0,garlic (gm)
+1.1.07.1.1.06.0,ginger (gm)
+1.1.07.2.1.01.X,palak/other leafy vegetables
+1.1.07.3.1.01.0,tomato
+1.1.07.3.1.02.0,brinjal
+1.1.07.3.1.03.0,cauliflower
+1.1.07.3.1.04.0,cabbage
+1.1.07.3.1.05.0,green chillies
+1.1.07.3.1.06.0,ladys finger
+1.1.07.3.1.07.X,parwal/patal; kundru
+1.1.07.3.1.08.X,gourd; pumpkin
+1.1.07.3.1.09.0,peas [Vegetables]
+1.1.07.3.1.10.X,beans; barbati
+1.1.07.3.1.11.0,lemon (no.)
+1.1.07.3.1.12.X,other vegetables
+1.1.07.4.1.01.0,pickles (gm)
+1.1.07.4.1.02.0,chips (gm)
+1.1.08.1.1.01.0,arhar; tur
+1.1.08.1.1.02.0,gram: split
+1.1.08.1.1.03.0,gram: whole
+1.1.08.1.1.04.0,moong
+1.1.08.1.1.05.0,masur
+1.1.08.1.1.06.0,urd
+1.1.08.1.1.07.0,peas [Pulses]
+1.1.08.1.1.08.0,khesari
+1.1.08.1.1.09.X,other pulses
+1.1.08.2.1.01.0,gram products
+1.1.08.2.1.02.0,besan
+1.1.08.2.1.03.0,other pulse products
+1.1.09.1.1.01.P,sugar - PDS
+1.1.09.1.1.02.0,sugar - other sources
+1.1.09.1.1.03.0,gur
+1.1.09.2.1.01.0,candy; misri
+1.1.09.2.1.02.0,honey
+1.1.09.2.1.03.X,sauce; jam; jelly (gm)
+1.1.09.3.1.01.0,ice-cream
+1.1.10.1.1.01.0,salt
+1.1.10.1.1.02.0,jeera (gm)
+1.1.10.1.1.03.0,dhania (gm)
+1.1.10.1.1.04.0,turmeric (gm)
+1.1.10.1.1.05.0,black pepper (gm)
+1.1.10.1.1.06.0,dry chillies (gm)
+1.1.10.1.1.07.0,tamarind (gm)
+1.1.10.1.1.08.0,curry powder (gm)
+1.1.10.1.1.09.0,oilseeds (gm)
+1.1.12.1.1.01.0,tea: cups (no.)
+1.1.12.1.1.02.0,coffee: cups (no.)
+1.1.12.2.1.01.0,cooked meals purchased  (no.)
+1.1.12.3.1.01.X,cooked snacks purchased [samosa; puri; paratha; burger; chowmein; idli; dosa; vada; chops; pakoras; pao bhaji; etc.]
+1.1.12.3.1.03.X,prepared sweets; cake; pastry
+1.1.12.3.1.04.0,papad; bhujia; namkeen; mixture; chanachur
+1.1.12.3.1.05.0,other packaged processed food
+1.2.11.1.1.01.0,tea: leaf (gm)
+1.2.11.1.1.02.0,coffee: powder (gm)
+1.2.11.2.1.01.0,mineral water (litre)
+1.2.11.2.1.02.X,cold beverages: bottled/canned (litre)
+1.2.11.2.1.03.X,fruit juice and shake (litre)
+1.2.11.2.1.04.X,other beverages: cocoa; chocolate; etc.
+2.1.01.1.1.01.0,country liquor (litre)
+2.1.01.1.1.02.0,foreign/refined liquor or wine (litre)
+2.1.01.1.1.03.0,toddy (litre)
+2.1.01.1.1.04.0,beer (litre)
+2.1.01.1.1.05.0,other intoxicants
+2.1.01.2.1.01.0,pan: leaf (no.)
+2.1.01.2.1.02.0,pan: finished (no.)
+2.1.01.2.1.03.X,ingredients for pan (gm)
+2.1.01.3.1.01.0,bidi (no.)
+2.1.01.3.1.02.X,cigarettes (no.)
+2.1.01.3.1.03.0,leaf tobacco (gm)
+2.1.01.3.1.04.0,snuff (gm)
+2.1.01.3.1.05.0,hookah tobacco (gm)
+2.1.01.3.1.06.0,cheroot (no.)
+2.1.01.3.1.07.0,zarda; kimam; surti (gm)
+2.1.01.3.1.08.0,other tobacco products
+3.1.01.1.1.01.0,dhoti (no.)
+3.1.01.1.1.02.0,saree (no.)
+3.1.01.1.1.03.X,shawl; chaddar (no.)
+3.1.01.1.1.04.0,lungi (no.)
+3.1.01.1.1.05.0,kurta-pajama suits: males (no.)
+3.1.01.1.1.06.X,shirts; T-shirts (no.)
+3.1.01.1.1.07.X,shorts; trousers; bermudas (no.)
+3.1.01.1.1.08.X,baniyan; socks; other hosiery and undergarments; etc. (no.)
+3.1.01.1.1.09.0,kurta-pajama suits: females (no.)
+3.1.01.1.1.10.0,frocks; skirts; etc. (no.)
+3.1.01.1.1.13.0,school/college uniform: boys
+3.1.01.1.1.14.0,school/college uniform: girls
+3.1.01.2.1.01.X,coat; jacket; sweater; windcheater (no.)
+3.1.01.2.1.02.0,knitting wool (gm)
+3.1.01.3.1.03.X,cloth for shirt; pyjama; kurta; salwar; etc. (metre)
+3.1.01.3.1.04.X,cloth for coat; trousers; suit; etc. (metre)
+3.1.01.3.1.06.0,clothing [first-hand]: other
+3.1.01.3.1.07.0,clothing: second-hand
+3.1.01.3.1.08.X,gamchha; towel; handkerchief (no.)
+3.1.01.3.1.09.X,headwear; belts; ties (no.)
+3.1.01.4.2.01.X,washerman; laundry; ironing
+3.1.01.4.2.02.X,tailor
+3.1.02.1.1.01.X,leather boots; shoes
+3.1.02.1.1.02.X,leather sandals; chappals; etc.
+3.1.02.1.1.03.0,other leather footwear
+3.1.02.1.1.04.X,rubber/PVC footwear
+3.1.02.1.1.05.0,other footwear
+4.1.01.1.2.01.X,house rent; garage rent
+4.1.01.2.2.01.X,residential building and land [cost of repairs only]
+4.1.01.2.2.02.X,water charges
+4.1.01.2.2.03.0,watch man charges [other cons taxes]
+5.1.01.1.1.01.0,electricity (std. unit)
+5.1.01.2.1.01.X,LPG [excl. conveyance]
+5.1.01.3.1.01.P,kerosene – PDS (litre)
+5.1.01.3.1.02.0,kerosene – other sources (litre)
+5.1.01.3.1.04.0,diesel (litre) [excl. conveyance]
+5.1.01.3.1.05.0,other fuel
+5.1.01.4.1.01.0,coke
+5.1.01.4.1.02.0,firewood and chips
+5.1.01.4.1.03.0,coal
+5.1.01.4.1.04.0,charcoal
+5.1.01.4.1.05.0,dung cake
+6.1.01.1.1.01.0,bedstead
+6.1.01.1.1.02.0,almirah; dressing table
+6.1.01.1.1.03.X,chair; stool; bench; table
+6.1.01.1.1.06.0,other furniture and fixtures [couch; sofa; etc.]
+6.1.01.1.1.07.0,bathroom and sanitary equipment
+6.1.01.1.1.09.X,carpet; daree and other floor mattings
+6.1.01.2.1.01.0,bed sheet; bed cover (no.)
+6.1.01.2.1.02.0,rug; blanket (no.)
+6.1.01.2.1.03.X,pillow; quilt; mattress (no.)
+6.1.01.2.1.04.X,cloth for upholstery; curtains; tablecloth; etc. (metre)
+6.1.01.2.1.05.0,mosquito net (no.)
+6.1.01.2.1.06.X,bedding: others
+6.1.01.3.1.01.X,air conditioner; air cooler
+6.1.01.3.1.02.0,inverter
+6.1.01.3.1.03.0,sewing machine
+6.1.01.3.1.04.0,washing machine
+6.1.01.3.1.05.X,stove; gas burner
+6.1.01.3.1.06.0,refrigerator
+6.1.01.3.1.07.0,electric fan
+6.1.01.3.1.08.0,water purifier
+6.1.01.3.1.09.X,electric iron; heater; toaster; oven and other electric heating appliances
+6.1.01.3.1.10.0,other cooking/household appliances
+6.1.01.3.1.12.0,other durables [specify]
+6.1.01.4.1.01.X,stainless steel utensils
+6.1.01.4.1.02.0,pressure cooker/pressure pan
+6.1.01.4.1.03.0,other metal utensils
+6.1.01.4.1.05.0,other crockery and utensils
+6.1.01.4.1.06.0,earthenware
+6.1.01.4.1.07.0,glassware
+6.1.01.5.1.01.X,electric bulb; tubelight
+6.1.01.5.1.02.0,plugs; switches and other electrical fittings
+6.1.01.5.1.03.0,electric batteries
+6.1.01.5.1.04.0,torch
+6.1.01.5.1.05.0,lock
+6.1.01.6.1.01.X,bucket; water bottle/feeding bottle and other plastic goods
+6.1.01.6.1.02.0,coir; rope; etc.
+6.1.01.6.1.03.0,washing soap/soda/powder
+6.1.01.6.1.04.0,other washing requisites
+6.1.01.6.1.05.X,incense [agarbatti]; room freshener
+6.1.01.6.1.06.0,flower [fresh]: all purposes
+6.1.01.6.1.07.0,mosquito repellent; insecticide; acid etc.
+6.1.01.6.1.08.0,matches (box)
+6.1.01.6.1.09.0,candle (no.)
+6.1.01.6.1.10.0,other petty articles
+6.1.01.7.2.01.X,domestic servant/cook
+6.1.01.7.2.03.0,sweeper
+6.1.01.7.2.05.0,Monthly Maintainance charges
+6.1.01.7.2.07.X,other consumer services excluding conveyance
+6.1.02.1.2.05.X,hospital and nursing home charges
+6.1.02.2.1.01.X,medicine [non-institutional]
+6.1.02.2.1.03.X,family planning devices
+6.1.02.2.1.04.0,spectacles
+6.1.02.2.2.06.0,other medical expenses [non-institutional]
+6.1.02.2.2.07.0,doctors/surgeons fee-first consultation [non-institutional]
+6.1.02.2.2.08.X,X-ray; ECG; pathological test; etc. [non-institutional]
+6.1.03.1.1.01.0, motor car; jeep
+6.1.03.1.1.02.X, motor cycle; scooter
+6.1.03.1.1.03.0,bicycle [without  accessories]
+6.1.03.1.1.05.X, tyres and tubes
+6.1.03.2.1.01.0,petrol for vehicle
+6.1.03.2.1.02.0,diesel for vehicle
+6.1.03.2.1.03.X,lubricants and other fuels for vehicle
+6.1.03.2.2.04.0,other conveyance expenses
+6.1.03.3.2.01.X,railway fare
+6.1.03.3.2.02.0,bus/tram fare
+6.1.03.3.2.03.X,taxi; auto-rickshaw fare
+6.1.03.3.2.04.0,rickshaw [hand drawn and cycle] fare
+6.1.03.3.2.05.0,horse cart fare
+6.1.03.3.2.06.0,school bus; van; etc.
+6.1.03.3.2.07.0,air fare [normal]: economy class [adult]
+6.1.03.3.2.08.0,steamer; boat fare
+6.1.03.3.2.09.0,porter charges
+6.1.03.4.1.01.0,mobile handset
+6.1.03.5.2.01.0,telephone charges: landline
+6.1.03.5.2.02.X,telephone charges: mobile
+6.1.03.5.2.03.0,internet expenses
+6.1.04.1.1.01.X,radio; tape recorder; 2-in-1
+6.1.04.1.1.02.0,television
+6.1.04.1.1.03.0,VCR/VCD/DVD player
+6.1.04.1.1.05.X,camera and photographic equipment
+6.1.04.1.1.06.X,PC/Laptop/other peripherals incl. software
+6.1.04.1.1.07.0,CD; DVD; audio/video cassette; etc.
+6.1.04.1.1.11.0,goods for recreation and hobbies
+6.1.04.1.1.12.X,sports goods; toys; etc.
+6.1.04.1.1.14.X,newspapers; periodicals
+6.1.04.1.2.04.0,photography
+6.1.04.1.2.08.0,VCD/DVD hire [incl. instrument]
+6.1.04.2.2.01.0,cinema: new release [normal day]
+6.1.04.2.2.02.0,monthly charges for cable TV connection
+6.1.04.2.2.04.0,library charges
+6.1.04.2.2.05.0,other entertainment
+6.1.04.2.2.06.0,club fees
+6.1.04.2.2.07.0,hotel lodging charges
+6.1.05.1.1.02.X,books; journals: first hand
+6.1.05.1.1.04.X,stationery; photocopying charges
+6.1.05.2.2.01.X,tuition and other fees [school; college; etc.]
+6.1.05.2.2.02.X,private tutor/coaching centre
+6.1.05.2.2.03.0,other educational expenses [incl. fees for enrollment in web-based training]
+6.1.06.1.1.01.0,toilet soap
+6.1.06.1.1.02.X,toothpaste; toothbrush; comb; etc.
+6.1.06.1.1.03.X,powder; snow; cream; lotion and perfume
+6.1.06.1.1.04.X,hair oil; shampoo; hair cream
+6.1.06.1.1.05.X,shaving blades; shaving stick; razor
+6.1.06.1.1.06.X,shaving cream; aftershave lotion
+6.1.06.1.1.07.0,sanitary napkins
+6.1.06.1.1.09.X,clock; watch
+6.1.06.1.1.10.X,suitcase; trunk; box; handbag and other travel goods
+6.1.06.1.1.11.X,umbrella; raincoat
+6.1.06.1.1.12.X,lighter [bidi/cigarette/gas stove]
+6.1.06.1.1.14.X,any other personal goods
+6.1.06.2.1.01.0,gold
+6.1.06.2.1.02.0,silver
+6.1.06.2.1.04.0,other ornaments
+6.1.06.3.2.01.X,barber; beautician; etc.
