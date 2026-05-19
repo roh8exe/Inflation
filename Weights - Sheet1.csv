@@ -1,0 +1,300 @@
+Item_Code,Item,All India Item Combined Weight(Base:2012)
+1.1.01.1.1.01.P,rice – PDS,0.37094
+1.1.01.1.1.02.X,rice – other sources,4.37809
+1.1.01.1.1.03.0,chira,0.09524
+1.1.01.1.1.05.0,muri,0.11109
+1.1.01.1.1.06.0,other rice products,0.01765
+1.1.01.1.1.07.P,wheat/ atta – PDS,0.17389
+1.1.01.1.1.08.X,wheat/ atta – other sources,2.56052
+1.1.01.1.1.09.0,maida,0.03112
+1.1.01.1.1.10.0,"suji, rawa",0.09511
+1.1.01.1.1.11.X,"sewai, noodles",0.03381
+1.1.01.1.1.12.0,bread (bakery),0.10816
+1.1.01.1.1.13.X,"biscuits, chocolates, etc.",0.88308
+1.1.01.1.1.15.0,other cereals,0.00116
+1.1.01.1.1.16.0,"cereal substitutes: tapioca, etc.",0.04756
+1.1.01.2.1.01.X,jowar & its products,0.22633
+1.1.01.2.1.02.X,bajra & its products,0.11249
+1.1.01.2.1.03.X,maize & products,0.05711
+1.1.01.2.1.05.X,small millets & their products,0.00024
+1.1.01.2.1.06.X,ragi & its products,0.04578
+1.1.01.3.2.01.0,grinding charges,0.3242
+1.1.02.1.1.01.0,goat meat/mutton,0.79377
+1.1.02.1.1.02.X,beef/ buffalo meat,0.26752
+1.1.02.1.1.03.0,pork,0.05177
+1.1.02.1.1.04.0,chicken,1.22723
+1.1.02.1.1.05.0,"others: birds, crab, oyster, tortoise, etc.",0.00557
+1.1.02.2.1.01.X,"fish, prawn",1.26713
+1.1.03.1.1.01.0,eggs (no.),0.43085
+1.1.04.1.1.01.X,milk: liquid (litre),6.41886
+1.1.04.2.1.01.0,baby food,0.02533
+1.1.04.2.1.02.X,milk: condensed/ powder,0.04114
+1.1.04.2.1.03.0,curd,0.09422
+1.1.04.2.1.04.0,other milk products,0.02747
+1.1.05.1.1.01.0,mustard oil,1.32678
+1.1.05.1.1.02.0,groundnut oil,0.33277
+1.1.05.1.1.03.0,coconut oil,0.07884
+1.1.05.1.1.04.0,"refined oil [sunflower, soyabean, saffola, etc.]",1.26238
+1.1.05.2.1.01.0,ghee,0.47445
+1.1.05.2.1.02.0,butter,0.01041
+1.1.05.2.1.03.0,"vanaspati, margarine",0.07187
+1.1.06.1.1.01.0,banana (no.),0.5598
+1.1.06.1.1.02.0,jackfruit,0.00414
+1.1.06.1.1.03.0,watermelon,0.04684
+1.1.06.1.1.04.0,pineapple (no.),0.0037
+1.1.06.1.1.05.0,coconut (no.),0.26253
+1.1.06.1.1.06.0,green coconut (no.),0.04587
+1.1.06.1.1.07.0,guava,0.08133
+1.1.06.1.1.08.0,singara,0.00211
+1.1.06.1.1.09.X,"orange, mausami (no.)",0.12518
+1.1.06.1.1.10.0,papaya,0.04744
+1.1.06.1.1.11.0,mango,0.32017
+1.1.06.1.1.12.0,kharbooza,0.01243
+1.1.06.1.1.13.X,pears/nashpati,0.00054
+1.1.06.1.1.14.0,berries,0.00139
+1.1.06.1.1.15.0,leechi,0.00849
+1.1.06.1.1.16.0,apple,0.47018
+1.1.06.1.1.17.0,grapes,0.1534
+1.1.06.1.1.18.0,other fresh fruits,0.11939
+1.1.06.2.1.01.0,coconut: copra,0.10068
+1.1.06.2.1.02.0,groundnut,0.28769
+1.1.06.2.1.03.0,dates,0.04157
+1.1.06.2.1.04.0,cashewnut,0.07743
+1.1.06.2.1.05.0,walnut,0.00271
+1.1.06.2.1.06.0,other nuts,0.01424
+1.1.06.2.1.07.X,"raisin, kishmish, monacca, etc.",0.05616
+1.1.06.2.1.08.0,other dry fruits,0.04598
+1.1.07.1.1.01.0,potato,0.98404
+1.1.07.1.1.02.0,onion,0.64409
+1.1.07.1.1.03.0,radish,0.07207
+1.1.07.1.1.04.0,carrot,0.09395
+1.1.07.1.1.05.0,garlic (gm),0.31022
+1.1.07.1.1.06.0,ginger (gm),0.19177
+1.1.07.2.1.01.X,palak/other leafy vegetables,0.43849
+1.1.07.3.1.01.0,tomato,0.57488
+1.1.07.3.1.02.0,brinjal,0.36816
+1.1.07.3.1.03.0,cauliflower,0.24628
+1.1.07.3.1.04.0,cabbage,0.18139
+1.1.07.3.1.05.0,green chillies,0.2789
+1.1.07.3.1.06.0,lady's finger,0.28287
+1.1.07.3.1.07.X,"parwal/patal, kundru",0.09627
+1.1.07.3.1.08.X,"gourd, pumpkin",0.23613
+1.1.07.3.1.09.0,peas (Vegetables),0.1032
+1.1.07.3.1.10.X,"beans, barbati",0.14247
+1.1.07.3.1.11.0,lemon (no.),0.12705
+1.1.07.3.1.12.X,other vegetables,0.56483
+1.1.07.4.1.01.0,pickles (gm),0.09465
+1.1.07.4.1.02.0,chips (gm),0.00764
+1.1.08.1.1.01.0,"arhar, tur",0.79607
+1.1.08.1.1.02.0,gram: split,0.19899
+1.1.08.1.1.03.0,gram: whole,0.0948
+1.1.08.1.1.04.0,moong,0.34532
+1.1.08.1.1.05.0,masur,0.30213
+1.1.08.1.1.06.0,urd,0.27353
+1.1.08.1.1.07.0,peas (Pulses),0.06756
+1.1.08.1.1.08.0,khesari,0.01151
+1.1.08.1.1.09.X,other pulses,0.08299
+1.1.08.2.1.01.0,gram products,0.02327
+1.1.08.2.1.02.0,besan,0.15725
+1.1.08.2.1.03.0,other pulse products,0.03066
+1.1.09.1.1.01.P,sugar - PDS,0.08755
+1.1.09.1.1.02.0,sugar - other sources,1.13403
+1.1.09.1.1.03.0,gur,0.10303
+1.1.09.2.1.01.0,"candy, misri",0.00117
+1.1.09.2.1.02.0,honey,0.00327
+1.1.09.2.1.03.X,"sauce, jam, jelly (gm)",0.02341
+1.1.09.3.1.01.0,ice-cream,0.01163
+1.1.10.1.1.01.0,salt,0.15947
+1.1.10.1.1.02.0,jeera (gm),0.37183
+1.1.10.1.1.03.0,dhania (gm),0.33415
+1.1.10.1.1.04.0,turmeric (gm),0.49651
+1.1.10.1.1.05.0,black pepper (gm),0.13988
+1.1.10.1.1.06.0,dry chillies (gm),0.5751
+1.1.10.1.1.07.0,tamarind (gm),0.14786
+1.1.10.1.1.08.0,curry powder (gm),0.1796
+1.1.10.1.1.09.0,oilseeds (gm),0.09063
+1.1.12.1.1.01.0,tea: cups (no.),0.855
+1.1.12.1.1.02.0,coffee: cups (no.),0.01961
+1.1.12.2.1.01.0,cooked meals purchased (no.),2.42472
+1.1.12.3.1.01.X,"cooked snacks purchased [samosa, puri, paratha, burger, chowmein, idli, dosa, vada, chops, pakoras, pao bhaji, etc.]",1.16057
+1.1.12.3.1.03.X,"prepared sweets, cake, pastry",0.55402
+1.1.12.3.1.04.0,"papad, bhujia, namkeen, mixture, chanachur",0.45658
+1.1.12.3.1.05.0,other packaged processed food,0.0782
+1.2.11.1.1.01.0,tea: leaf (gm),0.9578
+1.2.11.1.1.02.0,coffee: powder (gm),0.0587
+1.2.11.2.1.01.0,mineral water (litre),0.01601
+1.2.11.2.1.02.X,cold beverages: bottled/canned (litre),0.0885
+1.2.11.2.1.03.X,fruit juice and shake (litre),0.05149
+1.2.11.2.1.04.X,"other beverages: cocoa, chocolate, etc.",0.08627
+2.1.01.1.1.01.0,country liquor (litre),0.35366
+2.1.01.1.1.02.0,foreign/refined liquor or wine (litre),0.40344
+2.1.01.1.1.03.0,toddy (litre),0.05788
+2.1.01.1.1.04.0,beer (litre),0.05932
+2.1.01.1.1.05.0,other intoxicants,0.07639
+2.1.01.2.1.01.0,pan: leaf (no.),0.06396
+2.1.01.2.1.02.0,pan: finished (no.),0.15533
+2.1.01.2.1.03.X,ingredients for pan (gm),0.13113
+2.1.01.3.1.01.0,bidi (no.),0.42638
+2.1.01.3.1.02.X,cigarettes (no.),0.22928
+2.1.01.3.1.03.0,leaf tobacco (gm),0.0999
+2.1.01.3.1.04.0,snuff (gm),0.00056
+2.1.01.3.1.05.0,hookah tobacco (gm),0.00581
+2.1.01.3.1.06.0,cheroot (no.),0.00424
+2.1.01.3.1.07.0,"zarda, kimam, surti (gm)",0.04869
+2.1.01.3.1.08.0,other tobacco products,0.26361
+3.1.01.1.1.01.0,dhoti (no.),0.07465
+3.1.01.1.1.02.0,saree (no.),0.89661
+3.1.01.1.1.03.X,"shawl, chaddar (no.)",0.0823
+3.1.01.1.1.04.0,lungi (no.),0.11463
+3.1.01.1.1.05.0,kurta-pajama suits: males (no.),0.0553
+3.1.01.1.1.06.X,"shirts, T-shirts (no.)",0.56646
+3.1.01.1.1.07.X,"shorts, trousers, bermudas (no.)",0.55365
+3.1.01.1.1.08.X,"baniyan, socks, other hosiery and undergarments, etc.(no.)",0.49077
+3.1.01.1.1.09.0,kurta-pajama suits: females (no.),0.22295
+3.1.01.1.1.10.0,"frocks, skirts, etc. (no.)",0.15122
+3.1.01.1.1.13.0,school/college uniform: boys,0.1697
+3.1.01.1.1.14.0,school/college uniform: girls,0.1353
+3.1.01.2.1.01.X,"coat, jacket, sweater, windcheater (no.)",0.19627
+3.1.01.2.1.02.0,knitting wool (gm),0.00029
+3.1.01.3.1.03.X,"cloth for shirt, pyjama, kurta, salwar, etc. (metre)",0.67661
+3.1.01.3.1.04.X,"cloth for coat, trousers, suit, etc. (metre)",0.42346
+3.1.01.3.1.06.0,clothing (first-hand): other,0.05151
+3.1.01.3.1.07.0,clothing: second-hand,0.01268
+3.1.01.3.1.08.X,"gamchha, towel, handkerchief (no.)",0.17775
+3.1.01.3.1.09.X,"headwear, belts, ties (no.)",0.01145
+3.1.01.4.2.01.X,"washerman, laundry, ironing",0.12458
+3.1.01.4.2.02.X,tailor,0.38901
+3.1.02.1.1.01.X,"leather boots, shoes",0.20891
+3.1.02.1.1.02.X,"leather sandals, chappals, etc.",0.18209
+3.1.02.1.1.03.0,other leather footwear,0.07541
+3.1.02.1.1.04.X,rubber / PVC footwear,0.31248
+3.1.02.1.1.05.0,other footwear,0.17108
+4.1.01.1.2.01.X,"house rent, garage rent",9.51042
+4.1.01.2.2.01.X,residential building & land (cost of repairs only),0.28319
+4.1.01.2.2.02.X,water charges,0.16136
+4.1.01.2.2.03.0,watch man charges (other cons taxes),0.11478
+5.1.01.1.1.01.0,electricity (std. unit),2.26042
+5.1.01.2.1.01.X,LPG [excl. conveyance],1.28621
+5.1.01.3.1.01.P,kerosene – PDS (litre),0.34162
+5.1.01.3.1.02.0,kerosene – other sources (litre),0.20712
+5.1.01.3.1.04.0,diesel (litre) [excl. conveyance],0.00243
+5.1.01.3.1.05.0,other fuel,0.18412
+5.1.01.4.1.01.0,coke,0.01073
+5.1.01.4.1.02.0,firewood and chips,2.06755
+5.1.01.4.1.03.0,coal,0.03865
+5.1.01.4.1.04.0,charcoal,0.00229
+5.1.01.4.1.05.0,dung cake,0.44196
+6.1.01.1.1.01.0,bedstead,0.05715
+6.1.01.1.1.02.0,"almirah, dressing table",0.03343
+6.1.01.1.1.03.X,"chair, stool, bench, table",0.01531
+6.1.01.1.1.06.0,"other furniture & fixtures (couch, sofa, etc.)",0.02471
+6.1.01.1.1.07.0,bathroom and sanitary equipment,0.00221
+6.1.01.1.1.09.X,"carpet, daree & other floor mattings",0.00152
+6.1.01.2.1.01.0,"bed sheet, bed cover (no.)",0.18315
+6.1.01.2.1.02.0,"rug, blanket (no.)",0.0732
+6.1.01.2.1.03.X,"pillow, quilt, mattress (no.)",0.04733
+6.1.01.2.1.04.X,"cloth for upholstery, curtains, tablecloth, etc. (metre)",0.00187
+6.1.01.2.1.05.0,mosquito net (no.),0.01258
+6.1.01.2.1.06.X,bedding: others,0.00055
+6.1.01.3.1.01.X,"air conditioner, air cooler",0.05368
+6.1.01.3.1.02.0,inverter,0.04317
+6.1.01.3.1.03.0,sewing machine,0.00077
+6.1.01.3.1.04.0,washing machine,0.02372
+6.1.01.3.1.05.X,"stove, gas burner",0.00001
+6.1.01.3.1.06.0,refrigerator,0.09167
+6.1.01.3.1.07.0,electric fan,0.01542
+6.1.01.3.1.08.0,water purifier,0.00939
+6.1.01.3.1.09.X,"electric iron, heater, toaster, oven & other electric heating appliances",0.00232
+6.1.01.3.1.10.0,other cooking/ household appliances,0.00539
+6.1.01.3.1.12.0,other durables (specify)….,0.00432
+6.1.01.4.1.01.X,stainless steel utensils,0.17955
+6.1.01.4.1.02.0,pressure cooker/ pressure pan,0.00023
+6.1.01.4.1.03.0,other metal utensils,0.0127
+6.1.01.4.1.05.0,other crockery & utensils,0.01247
+6.1.01.4.1.06.0,earthenware,0.02858
+6.1.01.4.1.07.0,glassware,0.00143
+6.1.01.5.1.01.X,"electric bulb, tubelight",0.18174
+6.1.01.5.1.02.0,"plugs, switches & other electrical fittings",0.00391
+6.1.01.5.1.03.0,electric batteries,0.01063
+6.1.01.5.1.04.0,torch,0.04562
+6.1.01.5.1.05.0,lock,0.0014
+6.1.01.6.1.01.X,"bucket, water bottle/ feeding bottle & other plastic goods",0.06602
+6.1.01.6.1.02.0,"coir, rope, etc.",0.0038
+6.1.01.6.1.03.0,washing soap/soda/powder,0.86658
+6.1.01.6.1.04.0,other washing requisites,0.11649
+6.1.01.6.1.05.X,"incense (agarbatti), room freshener",0.2037
+6.1.01.6.1.06.0,flower (fresh): all purposes,0.09094
+6.1.01.6.1.07.0,"mosquito repellent, insecticide, acid etc.",0.12291
+6.1.01.6.1.08.0,matches (box),0.08463
+6.1.01.6.1.09.0,candle (no.),0.03267
+6.1.01.6.1.10.0,other petty articles,0.15756
+6.1.01.7.2.01.X,domestic servant/cook,0.63912
+6.1.01.7.2.03.0,sweeper,0.04121
+6.1.01.7.2.05.0,Monthly Maintainance charges,0.03951
+6.1.01.7.2.07.X,other consumer services excluding conveyance,0.15721
+6.1.02.1.2.05.X,hospital & nursing home charges,0.44057
+6.1.02.2.1.01.X,medicine (non-institutional),4.01148
+6.1.02.2.1.03.X,family planning devices,0.00021
+6.1.02.2.1.04.0,spectacles,0.0561
+6.1.02.2.2.06.0,other medical expenses (non-institutional),0.11599
+6.1.02.2.2.07.0,doctor’s/ surgeon’s fee-first consultation (non-institutional),0.79049
+6.1.02.2.2.08.X,"X-ray, ECG, pathological test, etc. (non-institutional)",0.47597
+6.1.03.1.1.01.0,"motor car, jeep",0.48053
+6.1.03.1.1.02.X,"motor cycle, scooter",0.79266
+6.1.03.1.1.03.0,bicycle(without accessories),0.13011
+6.1.03.1.1.05.X,tyres & tubes,0.07221
+6.1.03.2.1.01.0,petrol for vehicle,2.18697
+6.1.03.2.1.02.0,diesel for vehicle,0.148
+6.1.03.2.1.03.X,lubricants & other fuels for vehicle,0.05002
+6.1.03.2.2.04.0,other conveyance expenses,0.00985
+6.1.03.3.2.01.X,railway fare,0.18495
+6.1.03.3.2.02.0,bus/tram fare,1.36717
+6.1.03.3.2.03.X,"taxi, auto-rickshaw fare",0.56825
+6.1.03.3.2.04.0,rickshaw (hand drawn & cycle) fare,0.04553
+6.1.03.3.2.05.0,horse cart fare,0.00386
+6.1.03.3.2.06.0,"school bus, van, etc.",0.24583
+6.1.03.3.2.07.0,air fare (normal): economy class(adult),0.07722
+6.1.03.3.2.08.0,"steamer, boat fare",0.00043
+6.1.03.3.2.09.0,porter charges,0.00199
+6.1.03.4.1.01.0,mobile handset,0.13506
+6.1.03.5.2.01.0,telephone charges: landline*,0.17064
+6.1.03.5.2.02.X,telephone charges: mobile,1.83916
+6.1.03.5.2.03.0,internet expenses,0.08004
+6.1.04.1.1.01.X,"radio, tape recorder, 2-in-1",0.00345
+6.1.04.1.1.02.0,television,0.16209
+6.1.04.1.1.03.0,VCR/VCD/DVD player,0.00579
+6.1.04.1.1.05.X,camera & photographic equipment,0.003
+6.1.04.1.1.06.X,PC/ Laptop/ other peripherals incl. software,0.11073
+6.1.04.1.1.07.0,"CD, DVD, audio/video cassette, etc",0.00469
+6.1.04.1.1.11.0,goods for recreation and hobbies,0.00156
+6.1.04.1.1.12.X,"sports goods, toys, etc.",0.11243
+6.1.04.1.1.14.X,"newspapers, periodicals",0.18135
+6.1.04.1.2.04.0,photography,0.02008
+6.1.04.1.2.08.0,VCD/ DVD hire (incl. instrument),0.0028
+6.1.04.2.2.01.0,cinema: new release(normal day),0.1307
+6.1.04.2.2.02.0,monthly charges for cable TV connection,0.82005
+6.1.04.2.2.04.0,library charges,0.00002
+6.1.04.2.2.05.0,other entertainment,0.11324
+6.1.04.2.2.06.0,club fees,0.00146
+6.1.04.2.2.07.0,hotel lodging charges,0.00904
+6.1.05.1.1.02.X,"books, journals: first hand",0.55902
+6.1.05.1.1.04.X,"stationery, photocopying charges",0.388
+6.1.05.2.2.01.X,"tuition and other fees (school, college, etc.)",2.89814
+6.1.05.2.2.02.X,private tutor/ coaching centre,0.57665
+6.1.05.2.2.03.0,other educational expenses (incl. fees for enrollment in web-based training),0.04018
+6.1.06.1.1.01.0,toilet soap,0.63817
+6.1.06.1.1.02.X,"toothpaste, toothbrush, comb, etc.",0.35605
+6.1.06.1.1.03.X,"powder, snow, cream, lotion and perfume",0.39324
+6.1.06.1.1.04.X,"hair oil, shampoo, hair cream",0.45016
+6.1.06.1.1.05.X,"shaving blades, shaving stick, razor",0.09756
+6.1.06.1.1.06.X,"shaving cream, aftershave lotion",0.04408
+6.1.06.1.1.07.0,sanitary napkins,0.08921
+6.1.06.1.1.09.X,"clock, watch",0.00017
+6.1.06.1.1.10.X,"suitcase, trunk, box, handbag and other travel goods",0.00161
+6.1.06.1.1.11.X,"umbrella, raincoat",0.06197
+6.1.06.1.1.12.X,lighter (bidi/ cigarette/ gas stove),0.00029
+6.1.06.1.1.14.X,any other personal goods,0.00003
+6.1.06.2.1.01.0,gold,1.08035
+6.1.06.2.1.02.0,silver,0.11175
+6.1.06.2.1.04.0,other ornaments,0.01157
+6.1.06.3.2.01.X,"barber, beautician, etc.",0.5517
